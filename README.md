@@ -35,4 +35,4 @@ docker run -dit --restart=unless-stopped \
 
 ## Architecture
 
-`armv71` (Raspberry Pi 2 / 3)
+`armv61`, `armv71` (Raspberry Pi 1 / 2 / 3)
